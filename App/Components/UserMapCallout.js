@@ -8,7 +8,6 @@ import { Images } from '../Themes';
 import ImagePicker from 'react-native-image-picker';
 import firebase from 'firebase';
 
-
 type MapCalloutProps = {
   location: Object,
   fetching: boolean,
